@@ -9,3 +9,6 @@ def multiply(a, b):
 
 def divide_free(a, b):
   return a/b
+
+def getRemainder(a, b):
+  return a//b
